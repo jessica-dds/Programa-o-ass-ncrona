@@ -27,4 +27,3 @@ getCityFromZipcode('41256250').then(cidade => {
 }).catch((erro) => {
     console.log(erro);
 });
-
